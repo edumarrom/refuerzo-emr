@@ -80,6 +80,8 @@
 
         ![Creando equipos](images/organizacion_equipo_crear.png)
 
+        ![Permisos de equipo](images/organizacion_privilegios.png)
+
     2. Meter a github.com/antvazcar y a 2 de vuestros compañeros del grupo de clase en el equipo administradores
 
         ![Invitando miembros](images/organizacion_administradores.png)
