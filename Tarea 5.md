@@ -67,3 +67,27 @@
 9. Lista los distintos commits con sus ramas y sus tags
 
     ![Log resumido](images/log.png)
+
+10. Crear organización.
+
+    ![Creando organización](images/organizacion_crear.png)
+
+11. Crear equipos.
+
+    ![Invitando miembros](images/organizacion_miembros.png)
+
+    1. Crea dos equipos en la organización refuerzo-edumarrom, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
+
+        ![Creando equipos](images/organizacion_equipo_crear.png)
+
+    2. Meter a github.com/antvazcar y a 2 de vuestros compañeros del grupo de clase en el equipo administradores
+
+        ![Invitando miembros](images/organizacion_administradores.png)
+
+    3. Meter a github.com/antvazcar y a otros 2 compañeros del grupo de clase en el equipo colaboradores
+
+        ![Invitando miembros](images/organizacion_equipos.png)
+
+12. Crea un index.html.
+
+    ![Invitando miembros](images/index.png)
