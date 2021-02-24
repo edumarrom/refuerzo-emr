@@ -1,6 +1,5 @@
-# Tarea 4. Refuerzo GitHub
-## Entornos de Desarrollo - 1 DAW
-### Eduardo Martínez Romero - 2020·2021
+# Entornos de Desarrollo: Tarea 4. Refuerzo GitHub
+### Eduardo Martínez Romero - 1º DAW 2020·2021
 
 1. Crear un repositorio.
 
