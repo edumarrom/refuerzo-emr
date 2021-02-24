@@ -52,3 +52,14 @@
         Adios
 
     ![Conflicto resuelto](images/conflicto_resuelto.png)
+
+8. Borrar rama.
+    1. Crear un tag v0.2
+
+        ```bash
+        $ git tag v0.2
+        ```
+
+    2. Borrar la rama v0.2
+
+        ![Conflicto resuelto](images/rama_borrar.png)
