@@ -1,4 +1,6 @@
 # Tarea 4. Refuerzo GitHub
+## Entornos de Desarrollo - 1 DAW
+### Eduardo Martínez Romero - 2020·2021
 
 1. Crear un repositorio.
 
@@ -60,7 +62,7 @@
     $ git push --tags
     ```
 
-10. Cuenta de github.
+10. Cuenta de GitHub.
 
     ![10. Foto de perfil](images/foto_perfil.png)
 
