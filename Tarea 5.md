@@ -63,3 +63,7 @@
     2. Borrar la rama v0.2
 
         ![Conflicto resuelto](images/rama_borrar.png)
+
+9. Lista los distintos commits con sus ramas y sus tags
+
+    ![Log resumido](images/log.png)
